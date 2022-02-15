@@ -1,0 +1,12 @@
+node_modules
+.npmrc
+
+lib
+.eslintcache
+
+package-lock.json
+yarn-lock.json
+yarn.lock
+
+example/node_modules
+example/buile
